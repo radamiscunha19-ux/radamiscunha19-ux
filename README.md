@@ -1,3 +1,4 @@
-## [Hi there](https://emojipedia.org/ai-emoji-generator/7fcd0876-5041-4089-a283-29b714c4e63d) 👋
+## <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/43480bdc-c1bf-4d89-9e79-cdfca7dfe309" />
+
 
 
