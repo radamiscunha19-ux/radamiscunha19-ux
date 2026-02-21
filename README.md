@@ -22,10 +22,13 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=radamiscunha19-ux&bg_color=000000&color=32CD32&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radamiscunha19-ux/radamiscunha19-ux/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radamiscunha19-ux/hugoMDev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radamiscunha19-ux/radamiscunha19-ux/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/radamiscunha19-ux/radamiscunha19-ux/output/github-contribution-grid-snake.svg">
 </picture>
+
+<a href="https://www.linkedin.com/in/radamis-keoma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://app.enhancv.com/resume/698cbd57dc21ac1918f35201"><img src="https://img.shields.io/badge/-Currículum-%23333?style=for-the-badge&logo=enhacv&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/> 
 
