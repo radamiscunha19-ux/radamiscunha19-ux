@@ -28,7 +28,8 @@
 </picture>
 
 <a href="https://www.linkedin.com/in/radamis-keoma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://app.enhancv.com/resume/698cbd57dc21ac1918f35201"><img src="https://img.shields.io/badge/-Currículum-%23333?style=for-the-badge&logo=enhacv&logoColor=white" target="_blank"></a>
+<a href="https://app.enhancv.com/resume/698cbd57dc21ac1918f35201" target="_blank"><img src="https://img.shields.io/badge/Currículum-7289DA?style=for-the-badge&logo=enhacv&logoColor=white" target="_blank"></a> 
+<a href = "mailto:radamis.cunha19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/> 
 
