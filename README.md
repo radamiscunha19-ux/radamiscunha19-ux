@@ -1,6 +1,6 @@
 <div align="center">
    
-# <img align="center" width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/170e09d8-5827-4463-a085-5ed11fd51cda" > <Hola, soy Rádamis Keoma, Bienvenido! 💻/>
+# <img align="center" width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/170e09d8-5827-4463-a085-5ed11fd51cda" > <Hola, Soy Rádamis Keoma, Full Stack Developer! 💻/>
 
    ![анимеGIF (2)](https://github.com/user-attachments/assets/9979d803-d3ce-44fd-9714-ff4d15efc761) 
   
